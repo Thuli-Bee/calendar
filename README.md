@@ -1,2 +1,2 @@
-# calendar
-my first repository on GitHub
+# Calendar
+My first GitHub repository
